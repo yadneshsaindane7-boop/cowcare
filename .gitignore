@@ -1,0 +1,6 @@
+# Database config with local passwords
+includes/db.php
+
+# OS generated files
+.DS_Store
+Thumbs.db
